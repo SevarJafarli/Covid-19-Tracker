@@ -1,0 +1,80 @@
+body {  
+    background-size: 'cover';
+    background-repeat: no-repeat;
+    background-image: url("https://www.tulsa-health.org/sites/default/files/styles/fhd/public/2020-09/GettyImages-1210596198.jpg?itok=nsT8bL3M");
+    background-position: 'center';
+    height: 100%; 
+    width: '100vw';
+  }
+  h1{
+      color: rgb(160, 9, 9);
+  }
+  .covidData {
+
+    background-color: rgb(197, 191, 191);
+    width: 50%;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+    
+
+    
+  .covidData__form {
+    padding: 10px;
+    margin: 20px;
+  } 
+ .covidData__input input {
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    border-radius: 20px;
+   
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+} 
+ .covidData__input button {
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 5px rgb(71, 67, 67);
+    cursor: pointer;
+   
+}
+
+    
+ .covidData__country__info {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    padding-left: 10px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 2px;
+    text-shadow: 1px 1px 1px rgb(71, 67, 67);
+    box-shadow: 3px 3px 3px rgb(71, 67, 67);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
